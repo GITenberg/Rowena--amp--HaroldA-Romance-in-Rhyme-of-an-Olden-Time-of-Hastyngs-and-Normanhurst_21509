@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '24759'
     url: http://www.gutenberg.org/2009/agents/24759
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21509#Rowena--amp--HaroldA-Romance-in-Rhyme-of-an-Olden-Time-of-Hastyngs-and-Normanhurst
 gutenberg_issued: '2007-05-17'
 gutenberg_type: Text
 identifiers:
